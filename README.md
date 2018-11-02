@@ -17,9 +17,7 @@ Usage: ./dumbplayer [options]
   - -l	Loop mode
   - -r	Playback speed (0.4 - 3.0)
 
-License
-----
-
+# License
 MIT
 
 **Free Software, Hell Yeah!**
