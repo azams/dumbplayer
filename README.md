@@ -9,11 +9,10 @@ DumbPlayer is a mp3 player in MacOS terminal using afplay.
   - Build binary -> `go build dumbplayer.go`
 
 # Usage
-
 Usage: ./dumbplayer [options]
--s	Shuffle mode
--l	Loop mode
--r	Playback speed (0.4 - 3.0)
+  - -s	Shuffle mode
+  - -l	Loop mode
+  - -r	Playback speed (0.4 - 3.0)
 
 License
 ----
