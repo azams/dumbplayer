@@ -1,4 +1,7 @@
 # DumbPlayer
+
+![alt text](https://github.com/azams/dumbplayer/raw/master/dumbplayer.png "DumbPlayer logo")
+
 DumbPlayer is a mp3 player in MacOS terminal using afplay.
 # Installation Guide
   - Install brew -> `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
